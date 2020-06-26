@@ -1,3 +1,1 @@
-linux/amd64
-linux/386
-linux/amd64
+windows/amd64
